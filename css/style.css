@@ -2,9 +2,9 @@
 /********** General CSS ***********/
 /**********************************/
 body {
-    color: #666666;
+    color: #f4ed9f;
     /*background-image:linear-gradient(rgba(123, 108, 108, 0.7),rgba(41, 40, 40, 0.7)),url(../img/clg4.png);*/
-    background-image:/*linear-gradient(rgba(123, 108, 108, 0.7),rgba(41, 40, 40, 0.7)),*/url(../img/download.jpeg);
+    /*background-image:linear-gradient(rgba(123, 108, 108, 0.7),rgba(41, 40, 40, 0.7)),*/url(../img/download.jpeg);
     
     background-size:cover;
     background-position:center;
